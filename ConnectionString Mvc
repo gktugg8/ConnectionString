@@ -1,0 +1,5 @@
+ <connectionStrings>
+    <add name="Context" connectionString="data source=SQL SERVER NAME; 
+		 initial catalog=DATABASE NAME; integrated security=true;" 
+		 providerName="System.Data.SqlClient"/>
+  </connectionStrings>
